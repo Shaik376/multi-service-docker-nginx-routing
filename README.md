@@ -1,11 +1,4 @@
-Perfect — let’s create a clean, concise `README.md` for your project.
-I’ll format it well, explain the setup, routing, health checks (bonus), and how to test it.
 
----
-
-## 📄 `README.md`
-
-````markdown
 # DevOps Project: Nginx Reverse Proxy with Dockerized Services
 
 ## 📑 Overview
